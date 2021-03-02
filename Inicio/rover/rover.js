@@ -1,6 +1,3 @@
-/**
-Ejemplo extraido de Learning ThreeJs de Jos Kirsten
-*/
 var scene, renderer, camera;
 var controls;
 var step;
